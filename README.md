@@ -2,7 +2,7 @@
 
 ## Introduction
 Hi there! I'm Ashish Patidar, a passionate developer interested in Development, Machine Learning, and AI. I love building development and machine learning projects and exploring new technologies. Connect with me on social media or check out my projects below.
-I'm a passionate developer interested in Development, Machine Learning, and AI. I love building development and machine learning projects and exploring new technologies. Connect with me on social media or check out my projects below.
+
 
 
 
