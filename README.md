@@ -85,6 +85,11 @@
 
 ---
 
+### 🎓 Certifications:
+- **Machine Learning Specialization** - Coursera (2023)
+- **Deep Learning Specialization** - Andrew Ng (2023)
+---
+
 ### 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ashishpatidar123&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
