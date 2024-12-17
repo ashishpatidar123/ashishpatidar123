@@ -124,7 +124,7 @@ Got a project or want to collaborate? Feel free to reach out to me through
     <a href="https://www.linkedin.com/in/ashishp21/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="mailto:mailashishp18@gmail.com" target="_blank">
+    <a href="mailto:ashishpatidar1009993@gmail.com" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" height="30" width="40" />
     </a>
     <a href="https://github.com/ashishpatidar123" target="_blank">
