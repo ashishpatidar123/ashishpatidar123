@@ -1,41 +1,88 @@
-# Welcome to My GitHub Profile!
+<!-- README.md for GitHub Profile -->
 
-## Introduction
-Hi there! I'm Ashish Patidar, a passionate developer interested in Development, Machine Learning, and AI. I love building development and machine learning projects and exploring new technologies. Connect with me on social media or check out my projects below.
+<h1 align="center">👋 Hello, I'm Ashish Patidar!</h1>
+<h3 align="center">Final Year Electrical Engineering Student at IIT Kanpur | Developer | AI Enthusiast</h3>
 
+---
 
-
-
-- 🌱 I’m currently learning Machine Learning 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ashishp21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashishp21/" height="30" width="40" /></a>
+<p align="center">
+    🚀 Passionate about <strong>Software Development</strong>, <strong>Machine Learning</strong>, <strong>AI</strong>, <strong>Cybersecurity</strong>, and <strong>Statistics & Probability</strong>.
+    <br>Exploring new technologies and building projects that make an impact! 🌟
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatidar123)](https://github.com/anuraghazra/github-readme-stats)
+### 🔭 About Me
+- 🎓 **Final Year B.Tech Student** in Electrical Engineering at IIT Kanpur.
+- 🌱 **Currently Learning**: Deep Learning, Cybersecurity, Advanced AI Architectures.
+- 💻 **Interests**: Software Development, Machine Learning, AI, Cybersecurity, Stats & Probability.
+- 🛠️ **Skills**: Python, Java, TensorFlow, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Bash, Git, and more.
+- 🎯 **Goal**: Build scalable solutions and advance in AI and Cybersecurity.
+- 🤝 **Looking to Collaborate**: Open-source AI/ML projects.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatidar123&show_icons=true&count_private=true)  
+---
+
+### 📫 Connect with Me:
+<p align="left">
+    <a href="https://www.linkedin.com/in/ashishp21/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="mailto:mailashishp18@gmail.com" target="_blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" height="30" width="40" />
+    </a>
+    <a href="https://github.com/ashishpatidar123" target="_blank">
+        <img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" height="30" width="40" />
+    </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+    <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+    <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/logo_dark.svg" alt="matplotlib" width="40" height="40"/></a>
+    <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ashishpatidar123&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatidar123&layout=compact&theme=radical" alt="Top Languages" />
+    <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=ashishpatidar123&theme=onedark&row=1&column=7" alt="Trophies" />
+</div>
 
 
- 
+---
+
+### 🚀 Latest Projects
+- **[Project 1: AI/ML Enabled CSI Optimization](#)**
+- **[Project 2: Forecasting Using Time Series Analysis](#)**
+- **[Project 3: Trigger Word Detection](#)**
+- **[Project 4: Art Generation with Neural Style Transfer](#)**
 
 
 
+---
 
-<!--
-**ashishpatidar123/ashishpatidar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Fun Fact:
+⚡ I enjoy solving coding challenges and exploring the latest trends in AI and Cybersecurity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Connect!
+Got a project or want to collaborate? Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/ashishp21/)! 🌟
+
+---
+
+⭐ *Star this profile if you like it!*
